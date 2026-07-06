@@ -27,7 +27,7 @@ export default function About() {
             <div 
               className="w-full h-full bg-cover bg-center transition-transform duration-1000 hover:scale-105" 
               style={{
-                backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuAzIsvasygX1BTe4mUJntbKrCZK6VMQG3Nr8vU6ucuff4lqHioao-OfLXvYopDzrQvKpuixPH-c7MPXeC3iTqFbKYvX_NkVgR5SNR01uiALP-bkqYYv-BhC0RcvfdRqXupnve5YoT_OfFMKm__yFo_PcGe8Cp98HT9OFHAYiREwLmdgk4yxs9HkP6tIFaj6RAdaT6xsLHfIHexbbRtd0mcrw1TfDXEowxh9hAXb8sGGneDdUFuzk_vI')",
+                backgroundImage: "url('/images/boardroom.png')",
               }}
             />
           </div>

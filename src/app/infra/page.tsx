@@ -14,7 +14,7 @@ export default function Infra() {
             <div 
               className="w-full h-full bg-cover bg-center brightness-[0.8]" 
               style={{
-                backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuATUQpdHTQHJLJ1f5OOunj3n6b45BdHBBb2bgimyHcXLkp1j3UjrQFVMaFea6jdhx8zo3eYBBYeffft6Mm-ir2hYacSDdvpruptOteZMycn4U2JisZeB9iWfjBnrhgapuvRB6afRc3llTvljxh87oLwn_ZQSXC41tXAPeGmO_h3Czr_qwbX3KGl9oSNehPoYVSz8OmIXVwTqMAvE0EkQo2M7cSOJtfIbhkJVLLJOLBZbCGl3fZoTyNG')",
+                backgroundImage: "url('/images/infra.png')",
               }}
             />
             <div className="absolute inset-0 bg-black/35" />

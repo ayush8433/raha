@@ -17,7 +17,7 @@ export default function Home() {
             <div 
               className="w-full h-full bg-cover bg-center" 
               style={{ 
-                backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCDgLAqbrRnD3ucM3h-ybXot8GCruUZzxG68G6jrYCDNqC7jy_iLkwT0Y7wtBrWZAKu68oszFdd0nofrSBO2iI8SsBOLI5G3-5N76TH-zwDG5j15rFiLiT2pmZqhyKLZF7m_jWU6oCcClKD2fPwC2kHwRiS9mXn1X2AvfpThRNqyH5OcMp6cuyjuoItmO_GrXFaXEAj5T2saT0BjyxYVhpTGm5iFnLvMpE4mrfctM5LH4Ji3gqT_8ju')",
+                backgroundImage: "url('/images/hero_bg.png')",
               }}
             />
             <div className="absolute inset-0 bg-black/45" />
@@ -80,7 +80,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center" 
                   style={{ 
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCLs2cer2pQMLX2YOJgM-q-gzTpIdmvmt1K8bORiryd59sVQkIZOFzzsvKnbgpyC7JpOuOy96eaxCKnE6L0i0BexN6CqiSKwPHR1Kd9WfmBdTRYTlMmjTsbElgc5QgVu3Seew57rYKd-jCE3Q6V9oFMd6xaAew4HbWfIGFaBaodvbXtc-pHFf1akjZR5OXnxorocO5Z3NWi90g4FN_LzViZLGw-vK63IMRGn0Jo64Njfgj52fWqGIcH')",
+                    backgroundImage: "url('/images/boardroom.png')",
                   }}
                 />
               </div>
@@ -124,7 +124,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center hover:scale-105 transition-transform duration-500" 
                   style={{ 
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuAIZYmeUprJUsZG-2NGPAoQdb5LMqFkcCWmMbN-bAQG9ShgHN7b8XxddHeNMT7keHm2As06ZjOE3-HnqGQ2W_ZPOdTPHUdMiXLf4fzvyNNovJocnBvx57Aj5aHkKKb_OkUuKKDKYB6FNctjJNvukpc3mOAN5ZpoUagPY2kUkCEMTpQg9XDwuZmkmdgC08cN6Eq1c___9vQb08S4FtJTxAjgT_gga-1oRbkH2BtoFDPfycNbcLPP-1Tg')",
+                    backgroundImage: "url('/images/infra.png')",
                   }}
                 />
               </div>
@@ -158,7 +158,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center hover:scale-105 transition-transform duration-500" 
                   style={{ 
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuB3XJdE8jnE0-da5VxB7sDuoIhIRhWVHkdLm1VtsVzt-YShB64HL_TrQ3r21oQ0gkXRj5IySsNFK3KRnzScrukNhygOQWBdMGvQHCUVNgDhMOMde-R_sc-psgohB_sX6fUP77swkRRyqLD_7ACQGxsQceR_kffbvDf_F4QjVIMkuUI4Un_bxLuYjMqHq2857LQPcqYZ_IjlweuoRTMp6yzqQdvoaiEYfTqwyVFtMaisFuiWXymisoQ2')",
+                    backgroundImage: "url('/images/education.png')",
                   }}
                 />
               </div>
@@ -170,7 +170,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center hover:scale-105 transition-transform duration-500" 
                   style={{ 
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuAquu-YhuAMlVTfvM5vC8u2Jnis1EaQ8LPWI8LfUgt9vupCfzCCzX9k2dT5ixclK7rHBZfYzk_weIZ5oWky8q31wA8cUXj5LfD1rzQBaEF_qAHcZt6QyBIAagaoME35SQEPf-jYzJgcq3PIIHeczmymSwaOyFdOdd49qs__Kib1dAQLLdNntJsGPaHIaK3U_e5u6402-y4OBdqGE2ETsBiKc9UTdoa4GXbsKnVqSljCx0Y-K-wtQSHE')",
+                    backgroundImage: "url('/images/tech.png')",
                   }}
                 />
               </div>
@@ -327,7 +327,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center" 
                   style={{ 
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuBKSTblb7BTpjUSPbQN9j9Plxxr5T7uurqKGzCpZpLDB0GGkW2V2WmihvZ3wP_e5EBVFPTlRkPwxlexjd_jYOo8lgh1Ed4NUhlljnuqGjH90JQ7mioyQaDXjj0FXlj6Dtmuamv-ZER14RLbMF6mAtQwnoAHkd33hnUvdcrClZuODD0aCzqZCJf0rc-S_jVaqQv7xp_5z1nkP2wjkVsiqBSO60QQRGzmna63JmlN_KKGmJYOA2ip7wgw')",
+                    backgroundImage: "url('/images/chairman.png')",
                   }}
                 />
               </div>
@@ -384,7 +384,7 @@ export default function Home() {
             <div 
               className="w-full h-full opacity-60 bg-cover bg-center" 
               style={{
-                backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCn8BC2D81M9q0NYmEfTBnFS4eFiZxUFSJFnPOcmquRz9Id4bFEakcpQr7sTM-tVF8dwa51MQoyaCuSnR3_ZmFGFNVQn_wESClpTaXsqBmDVbZFhPY_FA6eEBU5GnzJZRPOJVfT6pd6gGN7mZWkihW7-5Lh27UCD4G7ZqKk3y2Ew1eTx8nq61O3y4TinACOgw1GzHDvsUHkeUn4TQ8G2Wncc2y3u6n9Ny_JOxpKYLCpkvN2EVu9zMO-')",
+                backgroundImage: "url('/images/hero_bg.png')",
               }}
             />
             <div className="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent" />
@@ -423,7 +423,7 @@ export default function Home() {
                 <div 
                   className="w-full aspect-[4/3] rounded-xl overflow-hidden bg-cover bg-center shadow-lg"
                   style={{
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuDx-d1WoR-YbUPWuCn_MWy8tIwior4uPTTGoho1H2SVUh9e_WEAj9-ksKy2Ck8Yj8KqNQCpDZLSdisa2XoUvC5GZgR8xv3ytZk55MGvM9Nniqerkq7PBvcEyk9KpdsO9DB6iTBw7LYh7R8iG2WyaflCxsHOrYjKelUvgGcd37S3t0OwUNB9Z6m4eukcJDhwra34N-L1QoXapC5lTNxGYGiEKSNPXBPS8QS9oiDtQQ42qISze_e4NUEi')",
+                    backgroundImage: "url('/images/boardroom.png')",
                   }}
                 />
               </div>
@@ -467,7 +467,7 @@ export default function Home() {
               <div 
                 className="h-64 w-full bg-cover bg-center"
                 style={{
-                  backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuBkQjLSgBFtZJ-reWbzWM6t7g51LKWmk1eQ7WOp0RJpaRYuUKvhOqiMclk1GRWoXWgI8j9s9YRboJBeYr0qmNup4UtX2xsAncE8wa_c8ZRGbYubAjwvqytzyxl0GUwwGcVAIgSASyD3LsdZJtZ1Mru74TbDdGMypcpW-5ObYTz7ID5BD4qnucp5hKSmzl-Wk-y8S0AIjn8i_3G0WnDVy8XeoP_ozUmXIrBiayzxxsRQrSVx8_wffq9I')",
+                  backgroundImage: "url('/images/infra.png')",
                 }}
               />
               <div className="p-8">
@@ -486,7 +486,7 @@ export default function Home() {
               <div 
                 className="h-64 w-full bg-cover bg-center"
                 style={{
-                  backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuD9BOs5AyrHTq1PaRKriYimjLTU4TrXFjILlTBNlc-dkaV1QA5JaHSZNsv6GrUdrsTSvil7oAGyrRm7cC6s4isGRpZjj9doAyOkkLOEc39MNgcODKW71v9r2gqvO3-PUom_laqk7Xmq4mdPCc8L59YMxnME-ikBlM0MJPTFyqGIBbBidDIDFe2k2slFZlMKyjicVtNo_aScw3tV8rBPnuibbtDAidyGzvHWPpnYPV6x89KkMASGZlmo')",
+                  backgroundImage: "url('/images/education.png')",
                 }}
               />
               <div className="p-8">
@@ -505,7 +505,7 @@ export default function Home() {
               <div 
                 className="h-64 w-full bg-cover bg-center"
                 style={{
-                  backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCj7nt1BxqH3FFzypEuD_Xzi5vntncdE8hu5Hhl6rfmmPHuqY14U09b64FSjjWgfGyilEdlGX-rLwnMwE92AbQkqxN4zQevUCxjbLvMyQ6O328CBTmDXoyFifyRrJGUDvtsWJzIuyIDvjGGhs6r9azJV6hCffKdRL4urdgpGQdJCUtsioM3kzjDcMUdjSIgVAs-vBA5GNjv2KkBAPAf1K5MpfsaysHSCx5VRQUXTmu9_S6NDo5Jyzi0')",
+                  backgroundImage: "url('/images/tech.png')",
                 }}
               />
               <div className="p-8">
@@ -562,7 +562,7 @@ export default function Home() {
                 <div 
                   className="w-full aspect-square rounded-xl bg-cover bg-center shadow-md"
                   style={{
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuCikymPv3NEcctPxjzAYTPKxe5pZi_bkXTxV5qDeMhMr0v6JqnmE7nwlFw9jcfGxyGygG3ivmD0LNWiXyssoWDnrBPjurDdJsbfq7QraiP7yTAtlUrHjfqXNkgn3rOtiHzUDX5-XC_aZPF6ezG0bzNA4l_g_qvZFtxvZoN7dOdLRZqBpqVAKLqS_o5M7WtyKfZTtse1zy9jMi-EwxVRsB99LFzpRaIAoJq_Mwx8rXEZFv9CYx6v0VvB')",
+                    backgroundImage: "url('/images/staircase.png')",
                   }}
                 />
               </div>
@@ -661,7 +661,7 @@ export default function Home() {
                 <div 
                   className="w-full aspect-[4/5] bg-cover bg-center rounded-xl grayscale hover:grayscale-0 transition-all duration-700 shadow-lg"
                   style={{
-                    backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuBKSTblb7BTpjUSPbQN9j9Plxxr5T7uurqKGzCpZpLDB0GGkW2V2WmihvZ3wP_e5EBVFPTlRkPwxlexjd_jYOo8lgh1Ed4NUhlljnuqGjH90JQ7mioyQaDXjj0FXlj6Dtmuamv-ZER14RLbMF6mAtQwnoAHkd33hnUvdcrClZuODD0aCzqZCJf0rc-S_jVaqQv7xp_5z1nkP2wjkVsiqBSO60QQRGzmna63JmlN_KKGmJYOA2ip7wgw')",
+                    backgroundImage: "url('/images/chairman.png')",
                   }}
                 />
               </div>

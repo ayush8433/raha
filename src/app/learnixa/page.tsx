@@ -25,7 +25,7 @@ export default function Learnixa() {
               <div 
                 className="w-full h-full bg-cover bg-center"
                 style={{
-                  backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuC5vszCUoxDw9oCRyn96l8gSGsGtMQAVQcB2kzUJ_tSsB0yoSJj62is5PMa1fNWXCrm-xXaA_LFogQNERGeAktPgyemUGvYEvS4UbZGdNVXERvGiHm4RKv3SzuNBx-90I0rq_hjQy_K30CdhLy6AQiD1hQmG1tLcYm4mDtmrgkBQjzMNg0IXn-Vm0tkAJMk7PEZtR9Mx-sp7zJxvRmQhaZTuDWGTwrcGrdEUjI5NTbbNK4vdUKLmAIu')",
+                  backgroundImage: "url('/images/education.png')",
                 }}
               />
             </div>
