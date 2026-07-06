@@ -80,7 +80,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center" 
                   style={{ 
-                    backgroundImage: "url('/images/Raha group.jpeg')",
+                    backgroundImage: "url('/images/boardroom.png')",
                   }}
                 />
               </div>
@@ -156,7 +156,7 @@ export default function Home() {
                 <div 
                   className="w-full h-full bg-cover bg-center hover:scale-105 transition-transform duration-500" 
                   style={{ 
-                    backgroundImage: "url('/images/Raha infra.jpeg')",
+                    backgroundImage: "url('/images/infra.png')",
                   }}
                 />
               </div>
@@ -507,7 +507,7 @@ export default function Home() {
                 <div 
                   className="w-full aspect-[4/3] rounded-xl overflow-hidden bg-cover bg-center shadow-lg"
                   style={{
-                    backgroundImage: "url('/images/Raha group.jpeg')",
+                    backgroundImage: "url('/images/boardroom.png')",
                   }}
                 />
               </div>
@@ -583,7 +583,7 @@ export default function Home() {
               <div 
                 className="h-64 w-full bg-cover bg-center"
                 style={{
-                  backgroundImage: "url('/images/Raha infra.jpeg')",
+                  backgroundImage: "url('/images/infra.png')",
                 }}
               />
               <div className="p-8">

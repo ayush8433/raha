@@ -14,7 +14,7 @@ export default function Infra() {
             <div 
               className="w-full h-full bg-cover bg-center brightness-[0.8]" 
               style={{
-                backgroundImage: "url('/images/Raha infra.jpeg')",
+                backgroundImage: "url('/images/infra.png')",
               }}
             />
             <div className="absolute inset-0 bg-black/35" />
